@@ -1,0 +1,2 @@
+# BrighterMinds
+Bootstrap Project
